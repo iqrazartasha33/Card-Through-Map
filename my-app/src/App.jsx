@@ -9,11 +9,10 @@ function App() {
     { id: 3, imgSrc: '/roll.webp', name: 'Roll', price: '$1.50', alt: 'Spicy Roll' },
     { id: 4, imgSrc: '/momos.jpg', name: 'Momos', price: '$2.50', alt: 'Steamed Momos' },
     { id: 5, imgSrc: '/sandwich.jpg', name: 'Sandwich', price: '$1.75', alt: 'Fresh Sandwich' },
-    { id: 6, imgSrc: '/gol gappy.jfif', name: 'Gol Gappy', price: '$1.00', alt: 'Crispy Gol Gappy' },
-    { id: 7, imgSrc: '/chaat.webp', name: 'Chaat', price: '$2.20', alt: 'Spicy Chaat' },
-    { id: 8, imgSrc: '/biryani.webp', name: 'Biryani', price: '$4.00', alt: 'Flavourful Biryani' },
-    { id: 9, imgSrc: '/malai tikka boti.avif', name: 'Malai Tikka Boti', price: '$3.00', alt: 'Grilled Malai Tikka Boti' },
-    { id: 10, imgSrc: '/seekh kabab.jpg', name: 'Seekh Kabab', price: '$3.50', alt: 'Juicy Seekh Kabab' }
+    { id: 6, imgSrc: '/chaat.webp', name: 'Chaat', price: '$2.20', alt: 'Spicy Chaat' },
+    { id: 7, imgSrc: '/biryani.webp', name: 'Biryani', price: '$4.00', alt: 'Flavourful Biryani' },
+    { id: 8, imgSrc: '/malai tikka boti.avif', name: 'Malai Tikka Boti', price: '$3.00', alt: 'Grilled Malai Tikka Boti' },
+    { id: 9, imgSrc: '/seekh kabab.jpg', name: 'Seekh Kabab', price: '$3.50', alt: 'Juicy Seekh Kabab' }
   ];
   
 

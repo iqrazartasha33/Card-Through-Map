@@ -4,17 +4,18 @@ import React from 'react';
 
 function App() {
   var array = [
-    { id: 1, imgSrc: '/burger.jpg', name: 'Burger', price: '$2.00' },
-    { id: 2, imgSrc: '/pizza.jpg', name: 'Pizza', price: '$3.00' },
-    { id: 3, imgSrc: '/roll.webp', name: 'Roll', price: '$1.50' },
-    { id: 4, imgSrc: '/momos.jpg', name: 'Momos', price: '$2.50' },
-    { id: 5, imgSrc: '/sandwich.jpg', name: 'Sandwich', price: '$1.75' },
-    { id: 6, imgSrc: '/gol gappy.jfif', name: 'Gol Gappy', price: '$1.00' },
-    { id: 7, imgSrc: '/chaat.webp', name: 'Chaat', price: '$2.20' },
-    { id: 8, imgSrc: '/biryani.webp', name: 'Biryani', price: '$4.00' },
-    { id: 9, imgSrc: '/malai tikka boti.avif', name: 'Malai Tikka Boti', price: '$3.00' },
-    { id: 10, imgSrc: '/seekh kabab.jpg', name: 'Seekh Kabab', price: '$3.50' }
+    { id: 1, imgSrc: '/burger.jpg', name: 'Burger', price: '$2.00', alt: 'Delicious Burger' },
+    { id: 2, imgSrc: '/pizza.jpg', name: 'Pizza', price: '$3.00', alt: 'Cheesy Pizza' },
+    { id: 3, imgSrc: '/roll.webp', name: 'Roll', price: '$1.50', alt: 'Spicy Roll' },
+    { id: 4, imgSrc: '/momos.jpg', name: 'Momos', price: '$2.50', alt: 'Steamed Momos' },
+    { id: 5, imgSrc: '/sandwich.jpg', name: 'Sandwich', price: '$1.75', alt: 'Fresh Sandwich' },
+    { id: 6, imgSrc: '/gol gappy.jfif', name: 'Gol Gappy', price: '$1.00', alt: 'Crispy Gol Gappy' },
+    { id: 7, imgSrc: '/chaat.webp', name: 'Chaat', price: '$2.20', alt: 'Spicy Chaat' },
+    { id: 8, imgSrc: '/biryani.webp', name: 'Biryani', price: '$4.00', alt: 'Flavourful Biryani' },
+    { id: 9, imgSrc: '/malai tikka boti.avif', name: 'Malai Tikka Boti', price: '$3.00', alt: 'Grilled Malai Tikka Boti' },
+    { id: 10, imgSrc: '/seekh kabab.jpg', name: 'Seekh Kabab', price: '$3.50', alt: 'Juicy Seekh Kabab' }
   ];
+  
 
   console.log('Array Elements:', array);
 
